@@ -18,7 +18,6 @@ Utilizei as seguintes fontes abertas (PDFs/artigos) para alimentar o NotebookLM:
 3	Livro (Kalogirou)	disponível no repositório
 4	Monografia de Especialização (Godinho)	disponível no repositório
 5	Trabalho de Conclusão de Curso - TCC (Riguetti)	disponível no repositório
-💡 Caso os arquivos estejam no repositório, crie uma pasta /fonts e coloque-os lá.
 ________________________________________
 🧠 Engenharia de Prompts e "Cicatrizes"
 Aqui documentei as perguntas estratégicas, variações de prompts e as dificuldades encontradas.
